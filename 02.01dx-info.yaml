@@ -1,0 +1,11 @@
+
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: 02.01dx
+  description: The Company - 02.01dx
+spec:
+  type: organization
+  profile:
+    displayName: 02.01dx
+  children: [dx]
