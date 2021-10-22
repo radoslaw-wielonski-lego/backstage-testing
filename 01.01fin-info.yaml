@@ -1,0 +1,12 @@
+
+   
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: 01.01fin
+  description: The Company - 01.01fin
+spec:
+  type: organization
+  profile:
+    displayName: 01.01fin
+  children: [auth, core]
