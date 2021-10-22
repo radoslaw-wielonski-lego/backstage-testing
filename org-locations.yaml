@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: organization
+  description: all yamls for backstage org
+spec:
+  targets:
+    - ./01.01fin-info.yaml
+    - ./01.02plan-info.yaml
+    - ./01.03bussiness-info.yaml
+    - ./01corp-info.yaml
+    - ./02.01dx-info.yaml
+    - ./02.02cloud-info.yaml
+    - ./02tech-info.yaml
+    - ./org.yaml
