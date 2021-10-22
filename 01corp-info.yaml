@@ -7,4 +7,4 @@ spec:
   type: organization
   profile:
     displayName: 01corp
-  children: [01.02fin, 01.02plan, 01.03bussiness]
+  children: [01.01fin, 01.02plan, 01.03bussiness]
