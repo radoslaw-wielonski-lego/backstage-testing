@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: 01.02plan
+  description: The Company - 01.02plan
+spec:
+  type: organization
+  profile:
+    displayName: 01.02plan
+  children: [plansmth]
