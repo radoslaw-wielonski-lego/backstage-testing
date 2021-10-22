@@ -7,4 +7,4 @@ spec:
   type: organization
   profile:
     displayName: 02tech
-  children: [01.01dx, 01.02cloud]
+  children: [02.01dx, 02.02cloud]
